@@ -1,2 +1,5 @@
 # hello-world
-The traditional beginning to any programmer's journey!
+
+Greetings!
+
+I'm Sander. I enjoy learning to code, and am exicted to take on projects in the future!
